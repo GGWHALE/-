@@ -1,2 +1,3 @@
 # -
-鲸鱼不是鱼
+Whale is not fish，
+it's mammal.
